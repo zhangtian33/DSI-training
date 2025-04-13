@@ -1,10 +1,7 @@
 import os
 import argparse
 
-# 获取当前脚本文件所在的目录路径
-# file_dir = os.path.dirname(__file__)
-file_dir = "F:\\"
-
+file_dir = os.path.dirname(__file__)
 
 class MonodepthOptions:
     def __init__(self):
