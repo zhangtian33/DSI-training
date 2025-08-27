@@ -3,7 +3,7 @@
 ![overview](./assets/system_overview.png)
 
 ## Demo Video
-▶️ [Watch on YouTube](https://www.youtube.com/watch?v=<YouTube视频ID>)
+▶️ [Watch on YouTube](./assets/DSI Visual Results.mp4)
 
 ## Results
 You can download the trained models [here](https://drive.google.com/drive/folders/1q4eZ_rdRQwnVA9rVgeXuHZCrp1lzjBW5?usp=drive_link).
