@@ -3,7 +3,7 @@
 ![overview](./assets/system_overview.png)
 
 ## Demo Video
-[点击观看 Demo](https://github.com/用户名/仓库名/raw/main/assets/demo.mp4)
+[点击观看 Demo](https://github.com/zhangtian33/DSI-training/assets/DSI Visual Results.mp4)
 
 ## Results
 You can download the trained models [here](https://drive.google.com/drive/folders/1q4eZ_rdRQwnVA9rVgeXuHZCrp1lzjBW5?usp=drive_link).
