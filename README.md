@@ -5,6 +5,10 @@
 ## Demo Video
 ![demo](./assets/demo.gif)
 
+## Paper
+Depth Self-Inhibition: Enhancing Self-Supervised Monocular Depth Estimation in Dynamic Scenes.  
+[Read the paper here](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174001043.36290744)
+
 ## Results
 You can download the trained models [here](https://drive.google.com/drive/folders/1q4eZ_rdRQwnVA9rVgeXuHZCrp1lzjBW5?usp=drive_link).
 ## Contact us
